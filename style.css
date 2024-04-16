@@ -1,0 +1,24 @@
+* {
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+
+}
+
+.container {
+       width:100%;
+       height: 100vh;
+       background-image: url(img/organic_bg.jpg);
+       background-size: cover;
+       background-position: center;
+}
+
+nav {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+}
+
+
+
+
